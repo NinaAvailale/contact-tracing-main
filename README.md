@@ -13,7 +13,7 @@ While many countries employed digital contact tracing to contain the spread of S
 
 ## System requirements
 ### Software Version Information:
-Specifically, it addresses the infectiousness model p(tau) for various locations with input parameters provided. The code also calculates contributions to transmission and the probability of super spreading events (SSE) across different locations.
+This code executes COVID-19 mathematical analyses using R version 4.2.1. Specifically, it addresses the infectiousness model p(tau) for various locations with input parameters provided. The code also calculates contributions to transmission and the probability of super spreading events (SSE) across different locations.
 
 The analyses take approximately 3 seconds to run on a machine that meets the recommended specifications.
 
