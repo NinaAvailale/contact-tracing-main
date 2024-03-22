@@ -1,5 +1,4 @@
 # contact-tracing-main
-# Contact-Tracing-Main
 Code for: Estimation of transmission contribution and the super-spreading risk for cospace-time interactions based on digital contact tracing
 
 
