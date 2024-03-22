@@ -37,7 +37,7 @@ Specifically，
 	i. the values in the second column of the 'contacts_by_patt_transmission_vs_dwelling.csv' table correspond to parameters x11 to x51 in the model input, representing the observed infection proportions among all contacts recorded in different locations (vs dwelling).
 	ii. the values in the second column of the 'gam_fit_statistics_nocontacts.csv' table correspond to parameters c1 to c5 in the model input.
 
-Additionally, we have included mockup data and mockup code for fitting daily contact numbers related to the second type of input parameters mentioned above, which can be found in the 'daily_contact_number_fitting' folder.
+Additionally, we have included mockup data and mockup code for fitting daily contact numbers related to the second type of input parameters mentioned above, which can be found in the "daily_contact_number_fitting" folder.
 
 For configuration and computational methodology for parameter settings, please refer to the supplementary materials.
 
